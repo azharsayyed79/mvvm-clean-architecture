@@ -1,6 +1,6 @@
 package com.azhar.cryptocurrencyappyt.data.repository
 
-import com.azhar.cryptocurrencyappyt.data.remote.CoinPaprikaApi
+import com.azhar.cryptocurrencyappyt.data.remote.network.CoinPaprikaApi
 import com.azhar.cryptocurrencyappyt.data.remote.dto.CoinDetailDto
 import com.azhar.cryptocurrencyappyt.data.remote.dto.CoinDto
 import com.azhar.cryptocurrencyappyt.domain.repository.CoinRepository

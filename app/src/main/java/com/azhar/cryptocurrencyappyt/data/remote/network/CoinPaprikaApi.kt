@@ -1,4 +1,4 @@
-package com.azhar.cryptocurrencyappyt.data.remote
+package com.azhar.cryptocurrencyappyt.data.remote.network
 
 import com.azhar.cryptocurrencyappyt.data.remote.dto.CoinDetailDto
 import com.azhar.cryptocurrencyappyt.data.remote.dto.CoinDto

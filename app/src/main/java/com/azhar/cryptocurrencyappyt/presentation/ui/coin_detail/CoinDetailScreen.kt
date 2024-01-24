@@ -28,7 +28,7 @@ import com.azhar.cryptocurrencyappyt.presentation.ui.coin_detail.components.Coin
 import com.azhar.cryptocurrencyappyt.presentation.ui.coin_detail.components.TeamListItem
 
 @Composable
-fun CoinDtailScreen(
+fun CoinDetailScreen(
     viewModel: CoinDetailViewModel = hiltViewModel()
 ) {
     val state = viewModel.state.value
